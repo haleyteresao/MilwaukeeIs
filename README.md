@@ -1,2 +1,2 @@
 # MilwaukeeIs
-Milwaukee Is example journalism site
+An example journalism site created at Hack n Tell, Ward 4 MKE
