@@ -1,0 +1,53 @@
+
+
+body{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: rgb(83, 196, 255);
+}
+
+
+.navbar-default {
+	margin-bottom: 0px;
+	background-color: rgb(83, 196, 255);
+	font-size: 20px;
+	color: #000;
+	border-bottom: 0 none;
+
+}
+
+.navbar-text {
+	font-size: 28px;
+	line-height: 20px;
+	color: #000;
+	/*font-weight: bold;*/
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #000;
+}
+.navbar-default .navbar-text {
+    color: #000;
+}
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 15px 25px;
+}
+
+p{
+	font-size: 20px;
+}
+
+h1{
+
+	color: rgb(10,140,132);
+}
+
+.footercolor{
+	background-color: rgb(153,153,153);
+}
+
+#footertextcolor{
+	color: white;
+}
